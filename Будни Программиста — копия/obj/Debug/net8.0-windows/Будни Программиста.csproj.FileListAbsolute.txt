@@ -1,0 +1,303 @@
+C:\Users\efimb\Downloads\calendar-master\bin\Debug\net8.0-windows\Будни Программиста.exe
+C:\Users\efimb\Downloads\calendar-master\bin\Debug\net8.0-windows\Будни Программиста.deps.json
+C:\Users\efimb\Downloads\calendar-master\bin\Debug\net8.0-windows\Будни Программиста.runtimeconfig.json
+C:\Users\efimb\Downloads\calendar-master\bin\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\efimb\Downloads\calendar-master\bin\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\efimb\Downloads\calendar-master\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\efimb\Downloads\calendar-master\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\efimb\Downloads\calendar-master\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\efimb\Downloads\calendar-master\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\Будни Программиста.csproj.AssemblyReference.cache
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\App.baml
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\Будни Программиста_MarkupCompile.cache
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\Будни Программиста.g.resources
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\Будни Программиста.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfoInputs.cache
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfo.cs
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\Будни Программиста.csproj.CoreCompileInputs.cache
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\Будни Пр.9BA9A53F.Up2Date
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\refint\Будни Программиста.dll
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\Будни Программиста.genruntimeconfig.cache
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\ref\Будни Программиста.dll
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\View\DaysPage.baml
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\View\DaysPage.g.cs
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\DayCardView.baml
+C:\Users\efimb\Downloads\calendar-master\obj\Debug\net8.0-windows\DayCardView.g.cs
+C:\Users\User\Source\Repos\calendar\bin\Debug\net8.0-windows\Будни Программиста.exe
+C:\Users\User\Source\Repos\calendar\bin\Debug\net8.0-windows\Будни Программиста.deps.json
+C:\Users\User\Source\Repos\calendar\bin\Debug\net8.0-windows\Будни Программиста.runtimeconfig.json
+C:\Users\User\Source\Repos\calendar\bin\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\User\Source\Repos\calendar\bin\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\User\Source\Repos\calendar\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\User\Source\Repos\calendar\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Source\Repos\calendar\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Source\Repos\calendar\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\Будни Программиста.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\View\DaysPage.baml
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\App.baml
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\View\DaysPage.g.cs
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\Будни Программиста_MarkupCompile.cache
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\Будни Программиста.g.resources
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\Будни Программиста.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfo.cs
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\Будни Программиста.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\Будни Программиста.sourcelink.json
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\Будни Пр.9BA9A53F.Up2Date
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\refint\Будни Программиста.dll
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\Будни Программиста.genruntimeconfig.cache
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\ref\Будни Программиста.dll
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\View\DayCardView.baml
+C:\Users\User\Source\Repos\calendar\obj\Debug\net8.0-windows\View\DayCardView.g.cs
+C:\Users\efimb\Downloads\calendar-main\bin\Debug\net8.0-windows\Будни Программиста.exe
+C:\Users\efimb\Downloads\calendar-main\bin\Debug\net8.0-windows\Будни Программиста.deps.json
+C:\Users\efimb\Downloads\calendar-main\bin\Debug\net8.0-windows\Будни Программиста.runtimeconfig.json
+C:\Users\efimb\Downloads\calendar-main\bin\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\efimb\Downloads\calendar-main\bin\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\efimb\Downloads\calendar-main\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\efimb\Downloads\calendar-main\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\efimb\Downloads\calendar-main\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\efimb\Downloads\calendar-main\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\Будни Программиста.csproj.AssemblyReference.cache
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\View\DayCardView.baml
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\View\DaysPage.baml
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\App.baml
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\View\DayCardView.g.cs
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\View\DaysPage.g.cs
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\Будни Программиста_MarkupCompile.cache
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\Будни Программиста.g.resources
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\Будни Программиста.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfoInputs.cache
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfo.cs
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\Будни Программиста.csproj.CoreCompileInputs.cache
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\Будни Пр.9BA9A53F.Up2Date
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\refint\Будни Программиста.dll
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\Будни Программиста.genruntimeconfig.cache
+C:\Users\efimb\Downloads\calendar-main\obj\Debug\net8.0-windows\ref\Будни Программиста.dll
+C:\Users\efimb\Documents\GitHub\calendar\bin\Debug\net8.0-windows\Будни Программиста.exe
+C:\Users\efimb\Documents\GitHub\calendar\bin\Debug\net8.0-windows\Будни Программиста.deps.json
+C:\Users\efimb\Documents\GitHub\calendar\bin\Debug\net8.0-windows\Будни Программиста.runtimeconfig.json
+C:\Users\efimb\Documents\GitHub\calendar\bin\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\efimb\Documents\GitHub\calendar\bin\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\efimb\Documents\GitHub\calendar\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\efimb\Documents\GitHub\calendar\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\efimb\Documents\GitHub\calendar\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\efimb\Documents\GitHub\calendar\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\Будни Программиста.csproj.AssemblyReference.cache
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\View\DayCardView.baml
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\View\DaysPage.baml
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\App.baml
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\View\DayCardView.g.cs
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\View\DaysPage.g.cs
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\Будни Программиста_MarkupCompile.cache
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\Будни Программиста.g.resources
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\Будни Программиста.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfoInputs.cache
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfo.cs
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\Будни Программиста.csproj.CoreCompileInputs.cache
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\Будни Программиста.sourcelink.json
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\Будни Пр.9BA9A53F.Up2Date
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\refint\Будни Программиста.dll
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\Будни Программиста.genruntimeconfig.cache
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\ref\Будни Программиста.dll
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\View\SelectLanguagesWindow.g.cs
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\View\SelectLanguagesWindow.baml
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\efimb\Documents\GitHub\calendar\obj\Debug\net8.0-windows\Будни Программиста_MarkupCompile.lref
+C:\Users\User\Downloads\calendar\calendar\bin\Debug\net8.0-windows\Будни Программиста.exe
+C:\Users\User\Downloads\calendar\calendar\bin\Debug\net8.0-windows\Будни Программиста.deps.json
+C:\Users\User\Downloads\calendar\calendar\bin\Debug\net8.0-windows\Будни Программиста.runtimeconfig.json
+C:\Users\User\Downloads\calendar\calendar\bin\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\User\Downloads\calendar\calendar\bin\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\User\Downloads\calendar\calendar\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\User\Downloads\calendar\calendar\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Downloads\calendar\calendar\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Downloads\calendar\calendar\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\Будни Программиста.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\View\DayCardView.baml
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\View\DaysPage.baml
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\View\DayCardView.g.cs
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\View\DaysPage.g.cs
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\View\SelectLanguagesWindow.g.cs
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\Будни Программиста_MarkupCompile.cache
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\Будни Программиста_MarkupCompile.lref
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\App.baml
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\View\SelectLanguagesWindow.baml
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\Будни Программиста.g.resources
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\Будни Программиста.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfo.cs
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\Будни Программиста.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\Будни Программиста.sourcelink.json
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\Будни Пр.9BA9A53F.Up2Date
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\refint\Будни Программиста.dll
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\Будни Программиста.genruntimeconfig.cache
+C:\Users\User\Downloads\calendar\calendar\obj\Debug\net8.0-windows\ref\Будни Программиста.dll
+C:\Users\User\Downloads\calendar\bin\Debug\net8.0-windows\Будни Программиста.exe
+C:\Users\User\Downloads\calendar\bin\Debug\net8.0-windows\Будни Программиста.deps.json
+C:\Users\User\Downloads\calendar\bin\Debug\net8.0-windows\Будни Программиста.runtimeconfig.json
+C:\Users\User\Downloads\calendar\bin\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\User\Downloads\calendar\bin\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\User\Downloads\calendar\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\User\Downloads\calendar\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Downloads\calendar\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Downloads\calendar\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\Будни Программиста.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\View\DayCardView.baml
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\View\DaysPage.baml
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\View\DayCardView.g.cs
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\View\DaysPage.g.cs
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\View\SelectLanguagesWindow.g.cs
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\Будни Программиста_MarkupCompile.cache
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\Будни Программиста_MarkupCompile.lref
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\App.baml
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\View\SelectLanguagesWindow.baml
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\Будни Программиста.g.resources
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\Будни Программиста.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfo.cs
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\Будни Программиста.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\Будни Пр.9BA9A53F.Up2Date
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\refint\Будни Программиста.dll
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\Будни Программиста.genruntimeconfig.cache
+C:\Users\User\Downloads\calendar\obj\Debug\net8.0-windows\ref\Будни Программиста.dll
+C:\Users\efimb\Desktop\calendar\bin\Debug\net8.0-windows\Будни Программиста.exe
+C:\Users\efimb\Desktop\calendar\bin\Debug\net8.0-windows\Будни Программиста.deps.json
+C:\Users\efimb\Desktop\calendar\bin\Debug\net8.0-windows\Будни Программиста.runtimeconfig.json
+C:\Users\efimb\Desktop\calendar\bin\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\efimb\Desktop\calendar\bin\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\efimb\Desktop\calendar\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\efimb\Desktop\calendar\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\efimb\Desktop\calendar\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\efimb\Desktop\calendar\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\Будни Программиста.csproj.AssemblyReference.cache
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\View\DaysPage.baml
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\View\DayCardView.g.cs
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\View\DaysPage.g.cs
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\View\SelectLanguagesWindow.g.cs
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\Будни Программиста_MarkupCompile.cache
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\Будни Программиста_MarkupCompile.lref
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\App.baml
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\View\DayCardView.baml
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\View\SelectLanguagesWindow.baml
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\Будни Программиста.g.resources
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\Будни Программиста.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfoInputs.cache
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfo.cs
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\Будни Программиста.csproj.CoreCompileInputs.cache
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\Будни Пр.9BA9A53F.Up2Date
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\refint\Будни Программиста.dll
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\Будни Программиста.genruntimeconfig.cache
+C:\Users\efimb\Desktop\calendar\obj\Debug\net8.0-windows\ref\Будни Программиста.dll
+C:\Users\User\Desktop\МПТ\C#\calendar1\bin\Debug\net8.0-windows\Будни Программиста.exe
+C:\Users\User\Desktop\МПТ\C#\calendar1\bin\Debug\net8.0-windows\Будни Программиста.deps.json
+C:\Users\User\Desktop\МПТ\C#\calendar1\bin\Debug\net8.0-windows\Будни Программиста.runtimeconfig.json
+C:\Users\User\Desktop\МПТ\C#\calendar1\bin\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\User\Desktop\МПТ\C#\calendar1\bin\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\User\Desktop\МПТ\C#\calendar1\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\User\Desktop\МПТ\C#\calendar1\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\МПТ\C#\calendar1\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\МПТ\C#\calendar1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\Будни Программиста.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\View\DaysPage.baml
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\View\DayCardView.g.cs
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\View\DaysPage.g.cs
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\View\SelectLanguagesWindow.g.cs
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\Будни Программиста_MarkupCompile.cache
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\Будни Программиста_MarkupCompile.lref
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\App.baml
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\View\DayCardView.baml
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\View\SelectLanguagesWindow.baml
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\Будни Программиста.g.resources
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\Будни Программиста.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfo.cs
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\Будни Программиста.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\Будни Программиста.sourcelink.json
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\Будни Пр.9BA9A53F.Up2Date
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\refint\Будни Программиста.dll
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\Будни Программиста.genruntimeconfig.cache
+C:\Users\User\Desktop\МПТ\C#\calendar1\obj\Debug\net8.0-windows\ref\Будни Программиста.dll
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\bin\Debug\net8.0-windows\Будни Программиста.exe
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\bin\Debug\net8.0-windows\Будни Программиста.deps.json
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\bin\Debug\net8.0-windows\Будни Программиста.runtimeconfig.json
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\bin\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\bin\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\bin\Debug\net8.0-windows\DeSerializeFile.dll
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\bin\Debug\net8.0-windows\DeSerializeFile.pdb
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\Будни Программиста.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\Themes\Dark.baml
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\Themes\Light.baml
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\View\DaysPage.baml
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\View\DayCardView.g.cs
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\View\DaysPage.g.cs
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\View\SelectLanguagesWindow.g.cs
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\Будни Программиста_MarkupCompile.cache
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\Будни Программиста_MarkupCompile.lref
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\App.baml
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\View\DayCardView.baml
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\View\SelectLanguagesWindow.baml
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\Будни Программиста.g.resources
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\Будни Программиста.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\Будни Программиста.AssemblyInfo.cs
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\Будни Программиста.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\Будни Программиста.sourcelink.json
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\Будни Пр.9BA9A53F.Up2Date
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\Будни Программиста.dll
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\refint\Будни Программиста.dll
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\Будни Программиста.pdb
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\Будни Программиста.genruntimeconfig.cache
+C:\Users\User\Desktop\МПТ\C#\Будни Программиста — копия\obj\Debug\net8.0-windows\ref\Будни Программиста.dll

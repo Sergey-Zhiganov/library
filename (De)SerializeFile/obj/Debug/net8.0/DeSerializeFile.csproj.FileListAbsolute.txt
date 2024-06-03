@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\МПТ\C#\(De)SerializeFile\bin\Debug\net8.0\DeSerializeFile.deps.json
+C:\Users\User\Desktop\МПТ\C#\(De)SerializeFile\bin\Debug\net8.0\DeSerializeFile.dll
+C:\Users\User\Desktop\МПТ\C#\(De)SerializeFile\bin\Debug\net8.0\DeSerializeFile.pdb
+C:\Users\User\Desktop\МПТ\C#\(De)SerializeFile\obj\Debug\net8.0\DeSerializeFile.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\МПТ\C#\(De)SerializeFile\obj\Debug\net8.0\DeSerializeFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\МПТ\C#\(De)SerializeFile\obj\Debug\net8.0\DeSerializeFile.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\МПТ\C#\(De)SerializeFile\obj\Debug\net8.0\DeSerializeFile.AssemblyInfo.cs
+C:\Users\User\Desktop\МПТ\C#\(De)SerializeFile\obj\Debug\net8.0\DeSerializeFile.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\МПТ\C#\(De)SerializeFile\obj\Debug\net8.0\DeSerializeFile.dll
+C:\Users\User\Desktop\МПТ\C#\(De)SerializeFile\obj\Debug\net8.0\refint\DeSerializeFile.dll
+C:\Users\User\Desktop\МПТ\C#\(De)SerializeFile\obj\Debug\net8.0\DeSerializeFile.pdb
+C:\Users\User\Desktop\МПТ\C#\(De)SerializeFile\obj\Debug\net8.0\ref\DeSerializeFile.dll

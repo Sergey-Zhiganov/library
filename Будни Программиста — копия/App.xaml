@@ -1,0 +1,15 @@
+﻿<Application x:Class="Будни_Программиста.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="View/MainWindow.xaml"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:viewModel="clr-namespace:Будни_Программиста.ViewModel">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+            
+            </ResourceDictionary.MergedDictionaries>
+            <viewModel:SelectLanguagesWindowViewModel x:Key="SelectLanguagesWindowViewModel" />
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

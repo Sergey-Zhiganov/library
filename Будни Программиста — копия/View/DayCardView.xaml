@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="Будни_Программиста.View.DayCardView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:viewmodel="clr-namespace:Будни_Программиста.ViewModel" d:DataContext="{d:DesignInstance Type=viewmodel:DayCardViewModel}"
+             mc:Ignorable="d" 
+             d:DesignHeight="150" d:DesignWidth="150">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" x:Name="CurrentDayText" FontSize="20" 
+                   VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Button Grid.Row="1" x:Name="CurrentDayImage" Command="{Binding SelectLanguagesCommand}"
+                Click="CurrentDayImage_Click" MouseRightButtonDown="CurrentDayImage_Click">
+            <Button.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Посмотреть этот день" Command="{Binding SelectLanguagesCommand}"/>
+                    <MenuItem Header="Очистить все об этом дне" Command="{Binding ClearDayCommand}"/>
+                </ContextMenu>
+            </Button.ContextMenu>
+        </Button>
+    </Grid>
+</UserControl>

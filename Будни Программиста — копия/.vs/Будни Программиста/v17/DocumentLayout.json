@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\view\\selectlanguageswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:view\\selectlanguageswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\view\\dayspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:view\\dayspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\view\\daycardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:view\\daycardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\view\\selectlanguageswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:view\\selectlanguageswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\themes\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:themes\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\themes\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:themes\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE159915-C7F0-4C4C-8E27-41490B97503C}|..\\(De)SerializeFile\\DeSerializeFile.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\(de)serializefile\\deserializefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\viewmodel\\daycardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:viewmodel\\daycardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\view\\dayspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:view\\dayspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\viewmodel\\selectlanguageswindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:viewmodel\\selectlanguageswindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\view\\daycardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:view\\daycardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|c:\\users\\user\\desktop\\\u043C\u043F\u0442\\c#\\\u0431\u0443\u0434\u043D\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\viewmodel\\dayspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1B5369-8E28-4BDA-9142-D272505DCA60}|\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj|solutionrelative:viewmodel\\dayspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SelectLanguagesWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\SelectLanguagesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\SelectLanguagesWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\SelectLanguagesWindow.xaml.cs",
+              "RelativeToolTip": "View\\SelectLanguagesWindow.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAApwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:33:03.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DaysPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\DaysPage.xaml",
+              "RelativeDocumentMoniker": "View\\DaysPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\DaysPage.xaml",
+              "RelativeToolTip": "View\\DaysPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T13:36:45.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj",
+              "RelativeDocumentMoniker": "\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj",
+              "RelativeToolTip": "\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T12:07:10.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DayCardView.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\DayCardView.xaml",
+              "RelativeDocumentMoniker": "View\\DayCardView.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\DayCardView.xaml",
+              "RelativeToolTip": "View\\DayCardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T08:34:47.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\MainWindow.xaml",
+              "RelativeToolTip": "View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T13:29:43.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectLanguagesWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\SelectLanguagesWindow.xaml",
+              "RelativeDocumentMoniker": "View\\SelectLanguagesWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\SelectLanguagesWindow.xaml",
+              "RelativeToolTip": "View\\SelectLanguagesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T13:32:37.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:32:55.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T09:34:39.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dark.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\Themes\\Dark.xaml",
+              "RelativeDocumentMoniker": "Themes\\Dark.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\Themes\\Dark.xaml",
+              "RelativeToolTip": "Themes\\Dark.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T09:26:58.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Light.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\Themes\\Light.xaml",
+              "RelativeDocumentMoniker": "Themes\\Light.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\Themes\\Light.xaml",
+              "RelativeToolTip": "Themes\\Light.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-31T12:11:28.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:48:53.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DaysPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\DaysPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\DaysPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\DaysPage.xaml.cs",
+              "RelativeToolTip": "View\\DaysPage.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAIBJwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:32:46.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeSerializeFile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\(De)SerializeFile\\DeSerializeFile.cs",
+              "RelativeDocumentMoniker": "..\\(De)SerializeFile\\DeSerializeFile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\(De)SerializeFile\\DeSerializeFile.cs",
+              "RelativeToolTip": "..\\(De)SerializeFile\\DeSerializeFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:49:59.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DayCardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\ViewModel\\DayCardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\DayCardViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\ViewModel\\DayCardViewModel.cs",
+              "RelativeToolTip": "ViewModel\\DayCardViewModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:33:19.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SelectLanguagesWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\ViewModel\\SelectLanguagesWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\SelectLanguagesWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\ViewModel\\SelectLanguagesWindowViewModel.cs",
+              "RelativeToolTip": "ViewModel\\SelectLanguagesWindowViewModel.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAIBJwD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:29:18.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DayCardView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\DayCardView.xaml.cs",
+              "RelativeDocumentMoniker": "View\\DayCardView.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\View\\DayCardView.xaml.cs",
+              "RelativeToolTip": "View\\DayCardView.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvw0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:30:12.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DaysPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\ViewModel\\DaysPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\DaysPageViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u041F\u0422\\C#\\\u0411\u0443\u0434\u043D\u0438 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u0430 \u2014 \u043A\u043E\u043F\u0438\u044F\\ViewModel\\DaysPageViewModel.cs",
+              "RelativeToolTip": "ViewModel\\DaysPageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:15:38.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
